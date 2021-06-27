@@ -1,8 +1,7 @@
 {
   "name": "api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "fltr wasm APIs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +11,6 @@
     "assemblyscript": "^0.19.3"
   },
   "dependencies": {
-    "sndbxr-wasm-api": "../SNDBXR/api"
+    "sndbxr": "../SNDBXR/api"
   }
 }

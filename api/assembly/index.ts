@@ -1,1 +1,1 @@
-export * from "sndbxr-wasm-api/assembly"
+export * from "sndbxr"
