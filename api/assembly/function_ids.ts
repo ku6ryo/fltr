@@ -1,0 +1,6 @@
+
+export const ID_BASE = 1000_000_000
+export const CREATE_SHADER_MATERIAL = ID_BASE + 1000
+
+
+export const FACE_APPLY_SHADER_MATERIAL = ID_BASE + 2000

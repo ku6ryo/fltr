@@ -1,0 +1,1 @@
+export * from "sndbxr-wasm-api/assembly"

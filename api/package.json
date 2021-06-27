@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryo Kuroyanagi",
+  "license": "MIT",
+  "devDependencies": {
+    "assemblyscript": "^0.19.3"
+  },
+  "dependencies": {
+    "sndbxr-wasm-api": "../SNDBXR/api"
+  }
+}
