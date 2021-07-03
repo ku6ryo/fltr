@@ -1,11 +1,11 @@
 import React, { Fragment } from "react"
 import ReactDOM from "react-dom"
-import videoSrc from "./videos/presentation.mp4"
+import { App } from "./App"
+import "sanitize.css"
 
 const Root = (
   <Fragment>
-    <div>hoge</div>
-    <video src={videoSrc}></video>
+    <App/>
   </Fragment>
 )
 
